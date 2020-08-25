@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheGreatEscape",
+			"Path": "D:\\Anubhav\\Unreal\\TheGreatEscape\\TheGreatEscape\\Source\\TheGreatEscape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheGreatEscapeEditor",
+			"Path": "D:\\Anubhav\\Unreal\\TheGreatEscape\\TheGreatEscape\\Source\\TheGreatEscapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
